@@ -6,4 +6,7 @@ public interface MessageService {
 
     //boolean sendAdminLoginLog(UmsAdminLoginLogDTO umsAdminLoginLogDTO);
 
+
+
+
 }
