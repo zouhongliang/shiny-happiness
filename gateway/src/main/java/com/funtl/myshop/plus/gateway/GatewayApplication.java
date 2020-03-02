@@ -75,6 +75,9 @@ public class GatewayApplication {
                 return Mono.empty();
             }
             return chain.filter(ctx);
+            
+            
+            
         };
     }
 
